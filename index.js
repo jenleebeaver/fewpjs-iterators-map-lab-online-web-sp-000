@@ -14,7 +14,7 @@ const tutorials = [
 function titleCased() {
   return tutorials.map(function (tutorial) {
     
-  })
+  });
 }
 
 function titleCased() {
