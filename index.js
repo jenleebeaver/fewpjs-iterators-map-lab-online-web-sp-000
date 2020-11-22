@@ -13,7 +13,7 @@ const tutorials = [
 
 function titleCased() {
   return tutorials.map(function (tutorial) {
-    
+    tutorial = tutorial.split(' ');
   });
 }
 
