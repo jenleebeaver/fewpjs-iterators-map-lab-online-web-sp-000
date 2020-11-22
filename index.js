@@ -22,5 +22,3 @@ function titleCased() {
 }
 
 //.slice is used to return specific elements
-
-console.log(tutorial)
